@@ -1,12 +1,15 @@
-A fun and interactive memory matching game 
-Built using HTML < CSS < JAVASCRIPT
-the goal is to match all pairs of emojis in the shortest time within reset button for the new game 
+A simple todo list application built using HTML < CSS < JAVASCRIPT
+This app helps users to manage their task efficiently
 
-PROJECT STRUCTURE :
-//index.html        # main game file + js logic
-//style.css         # styling for the game logic
+FEATURES
+//Add new tasks
+//Mark tasks as completed
+//Deleted Tasks
+//persistent storage using local storage
 
-# HOW TO PLAY 
--Open the main file into your browser 
--click on cards for matching within emojis
--Reset for new game
+USAGE :
+//Type a task into the input fields
+//click the add button to add the task
+//click on task to mark it as completed
+//click the cross button to remove a task
+//if not added any it will pop up an alert msg
