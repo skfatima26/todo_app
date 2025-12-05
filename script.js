@@ -47,14 +47,3 @@ showTask();
 
 
 
-
-
-
-
-
-
-Output:
-[+] Running 2/2
- Container mysql_user_container  Removed
- Network docker_default          Removed
-
